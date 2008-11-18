@@ -1,6 +1,4 @@
-#summary Goda-Time News
 #labels Featured
-
 = Nov 18, 2008 =
 
 The release file has been deprecated until recently identified licensing issues are resolved.
